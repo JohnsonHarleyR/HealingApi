@@ -158,7 +158,6 @@ public class ApiController {
 		
 	}
 		
-	//THIS ONE WORKS
 	//Get random animal url
 	@GetMapping("/animal/random")
 	Animal randomAnimal() {
