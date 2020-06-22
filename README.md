@@ -5,6 +5,7 @@ End Points
 (For when I get this figured out.)
 
 /quotes/all - Get list of all quotes
+<br>
 /animals/all - Get list of all baby animal pics
 /quotes/tag/{tag} - Get list of quotes by tag
 /quotes/author/{author} - Get list of quotes by tag
