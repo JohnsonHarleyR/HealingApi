@@ -14,5 +14,5 @@ An Api I made with mental health quotes and cute baby animals. It's my first suc
 /quote/random/{tag} - Get random quote by tag<br>
 /animal/random/{type} - Get random baby animal pic by animal type<br>
 /quote/authors - Get list of quote authors<br>
-/quotes/tags - Get list of quote tags<br>
-/animals/types - Get list of animal types<br>
+/quote/tags - Get list of quote tags<br>
+/animal/types - Get list of animal types<br>
