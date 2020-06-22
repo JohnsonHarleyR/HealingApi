@@ -4,15 +4,17 @@ An Api I made with mental health quotes and cute baby animals. It's my first suc
 <h1>End Points</h1>
 (For when I get this figured out.)<br><br>
 
-/quotes/all - Get list of all quotes<br>
-/animals/all - Get list of all baby animal pics<br>
-/quotes/tag/{tag} - Get list of quotes by tag<br>
-/quotes/author/{author} - Get list of quotes by tag<br>
-/animals/type/{type} - Get list of baby animal pics by animal type<br>
-/quote/random - Get random quote<br>
-/animal/random - Get random baby animal pic<br>
-/quote/random/{tag} - Get random quote by tag<br>
-/animal/random/{type} - Get random baby animal pic by animal type<br>
-/quote/authors - Get list of quote authors<br>
-/quote/tags - Get list of quote tags<br>
-/animal/types - Get list of animal types<br>
+<ul>
+<li>/quotes/all - Get list of all quotes</li>
+<li>/animals/all - Get list of all baby animal pics</li>
+<li>/quotes/tag/{tag} - Get list of quotes by tag</li>
+<li>/quotes/author/{author} - Get list of quotes by tag</li>
+<li>/animals/type/{type} - Get list of baby animal pics by animal type</li>
+<li>/quote/random - Get random quote</li>
+<li>/animal/random - Get random baby animal pic</li>
+<li>/quote/random/{tag} - Get random quote by tag</li>
+<li>/animal/random/{type} - Get random baby animal pic by animal type</li>
+<li>/quote/authors - Get list of quote authors</li>
+<li>/quote/tags - Get list of quote tags</li>
+<li>/animal/types - Get list of animal types</li>
+</ul>
