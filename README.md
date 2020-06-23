@@ -8,7 +8,7 @@ An Api I made with mental health quotes and cute baby animals. It's my first rea
 <li>/quotes/all - Get list of all quotes</li>
 <li>/animals/all - Get list of all baby animal pics</li>
 <li>/quotes/tag/{tag} - Get list of quotes by tag</li>
-<li>/quotes/author/{author} - Get list of quotes by tag</li>
+<li>/quotes/author/{author} - Get list of quotes by author</li>
 <li>/animals/type/{type} - Get list of baby animal pics by animal type</li>
 <li>/quote/random - Get random quote</li>
 <li>/animal/random - Get random baby animal pic</li>
