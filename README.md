@@ -1,5 +1,5 @@
 # HealingApi
-An Api I made with mental health quotes and cute baby animals. It's my first successful API! Now I just need to figure out how to get it onto postman and RapidApi.
+An Api I made with mental health quotes and cute baby animals. It's my first real API. Now I just need to figure out how to get it onto postman and RapidApi.
 
 <h1>End Points</h1>
 (For when I get this figured out.)<br><br>
